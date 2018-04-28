@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pt/test1/omnist2/newom/goodom1/drawmodel.ckpt"
+all_model_checkpoint_paths: "/home/pt/test1/omnist2/newom/goodom1/drawmodel.ckpt"
