@@ -1,0 +1,16 @@
+git config --global user.name "qyhboy"
+git config --global user.email "1498457145@qq.com"
+
+
+2
+git init
+git remote add origin git@github.com:qyhboy/test1.git
+
+git add xxx or git add .
+
+git commit -m 'this is for test'
+git push origin master 
+
+
+3
+git clone git@github.com:qyhboy/test1.git
